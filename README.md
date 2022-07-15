@@ -6,4 +6,4 @@ I wish to support communities with a career in the non-profit sector with a focu
 
 
 - 🔭 I’m currently working on completing the Data Analyst Bootcamp at the University of Birmingham. 
-- 🌱 I’m currently learning SQLAlchemy.
+- 🌱 I’m currently learning Machine Learning.
